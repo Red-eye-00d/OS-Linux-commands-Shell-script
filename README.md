@@ -1025,22 +1025,6 @@ $ ./forcontinue.sh
 ## OUTPUT
 <img width="1047" height="726" alt="image" src="https://github.com/user-attachments/assets/bfbfe36c-0a4c-4e04-ba8b-14b453be6ad5" />
 
-cat exread.sh 
-```bash
-#!/bin/bash
-# testing the read command
-echo -n "Enter your name: "
-read name
-echo "Hello $name, welcome to my program. "
- ```
- 
-$ chmod 755 exread.sh 
- 
-$ ./exread.sh 
-## OUTPUT
-<img width="1047" height="189" alt="image" src="https://github.com/user-attachments/assets/e0b23361-4a73-4408-b9c2-29974328262b" />
-
-
  cat exread1.sh
 ```bash
 #!/bin/bash
@@ -1050,9 +1034,6 @@ echo "Hello $name, welcome to my program. “
 ``` 
 $ chmod 755 exread1.sh 
 $ ./exread1.sh 
-
-## OUTPUT
-<img width="1047" height="236" alt="image" src="https://github.com/user-attachments/assets/7f711c91-44fc-4fca-90fa-5f52a3f4440a" />
 
  
 cat funcex.sh
